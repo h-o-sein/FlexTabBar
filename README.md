@@ -2,10 +2,16 @@
 
 ---
 
-# FlexTabBar-iOS12.1
+# FlexTabBar - iOS 12.1
 Flexible Tab Bar library for IOS
 
 Flexible Tab Bar is a custom approach to the tab bar that allows you to create different views for different *orientations*/*devices* or *states*. iOS default `UITabBar` is limited and it is really hard to customize it for different device states.
+
+---
+## Developed for iOS 12.1
+by [Hosein](https://github.com/h-o-sein)
+
+---
 
 ## Preview
 - Portrait (with a different type of button in the middle and different presentation when tapped)
@@ -19,11 +25,6 @@ Flexible Tab Bar is a custom approach to the tab bar that allows you to create d
 - Landscape (same tab layout as for the portrait one but now it displays the tab item title since it has more space to expand)
 <br>![](Images/ipad_l.png)
 
----
-## Developed for iOS 12.1
-[Hosein](https://github.com/h-o-sein)
-
----
 
 ## Adding to your project
 
