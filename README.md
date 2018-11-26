@@ -1,4 +1,4 @@
-![Flexible Tab Bar Header](.repo/flexible-tab-bar-header.png)
+![Flexible Tab Bar Header](Images//flexible-tab-bar-header.png)
 
 ---
 
