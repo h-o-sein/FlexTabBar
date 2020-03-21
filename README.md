@@ -2,13 +2,13 @@
 
 ---
 
-# FlexTabBar - iOS 12.2
+# FlexTabBar - iOS 13.2
 Flexible Tab Bar library for IOS
 
 Flexible Tab Bar is a custom approach to the tab bar that allows you to create different views for different *orientations*/*devices* or *states*. iOS default `UITabBar` is limited and it is really hard to customize it for different device states.
 
 ---
-## Developed for iOS 12.2 and Swift 5
+## Developed for iOS 13.2 and Swift 5
 by [Hosein](https://github.com/h-o-sein)
 
 ---
